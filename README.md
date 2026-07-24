@@ -72,19 +72,13 @@ fun_fact: I believe every expert was once a beginner
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/varad0077/varad0077/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
+<!-- Activity Graph — uncomment when you have more contributions!
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=varad0077&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </p>
+-->
 
 ---
 
